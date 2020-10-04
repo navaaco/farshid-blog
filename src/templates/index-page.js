@@ -37,7 +37,7 @@ export const pageQuery = graphql`
 const HomePage = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
-  const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
+  // const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
 	return (
 		<Layout>
       <SEO/>
@@ -49,13 +49,14 @@ const HomePage = ({ data }) => {
           <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span></Link>
         </div>
         <div>
-          {Image ? (
+          {/* {Image ? (
             <Img 
               fluid={Image} 
               alt={frontmatter.title + ' - Featured image'}
               className="featured-image"
             />
-          ) : ""}
+          ) : ""} */}
+          <div className="featured-image"/>
         </div>
       </div>
       <BlogListHome/>

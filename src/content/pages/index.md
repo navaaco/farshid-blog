@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: DividingDividends
-tagline: Lorem Ipsum
+tagline: Lorem Ipsum dolor
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more

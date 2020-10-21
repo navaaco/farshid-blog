@@ -73,7 +73,7 @@
       right: 0;
       top: 100%;
       z-index: 1;
-      background: #421E2F;
+      background: #000;
       width: 100%;
 			max-width: 320px;    
 			border-radius: 0 0 0 12px;
@@ -118,6 +118,9 @@
 		line-height: 48px;
 		margin: 0 0 5px;
 		font-weight: 900;
+		@media (max-width: $breakpoint-sm) {
+			font-size: 30px;
+		}
 	}
 	.tagline {
 		font-size: 24px;
@@ -260,7 +263,7 @@ article img {
 	align-items: center;
 	padding: var(--padding) calc(var(--padding) * 2);
 	background-color: var( --button-alternate-color);
-	color: var(--button-color);
+	color: #fff;
 	border-radius: 12px;
 	text-decoration: none;
 	appearance: none;
@@ -269,8 +272,8 @@ article img {
 	line-height: 1;
 	transition: background .3s linear;
 	&:hover {
-		background-color: var(--button-color);
-		color: var( --button-alternate-color);
+		// background-color: var(--button-color);
+		color: #fff;
 	}
 	&.-outline {
 		color: var(--primary-color);

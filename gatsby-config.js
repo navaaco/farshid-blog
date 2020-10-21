@@ -79,8 +79,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Farshids Blog`,
-        short_name: `Farshids Blog`,
+        name: `DividingDividends`,
+        short_name: `DividingDividends`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,

@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: Farshid Shirchi
-tagline: Management Student
+title: DividingDividends
+tagline: Lorem Ipsum
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more

@@ -4,11 +4,9 @@ title: A Special on Special Dividends
 slug: /-2
 date: 2020-11-05 13:50
 description: special dividend
-featuredImage: /assets/screenshot-2020-04-29-21.10.30.png
+featuredImage: /assets/screenshot-2020-11-05-at-14.05.01.png
 ---
 `Image source: seths.blog`
-
-
 
 Hello Readers!
 
@@ -16,15 +14,15 @@ This post is about special dividends and the reasons why firms decide to pay the
 
 Obviously, shareholders are happy to receive special dividends any time, but what’s in it for the company? Here are some explanations:
 
-1) Getting rid of excess cash
+1. Getting rid of excess cash
 
 As confusing as it sounds, there’s such a thing as too much cash. Excess cash refers to the situation when a company has a lot of extra cash beyond the amount needed for financing its operations. When there’s too much cash on the balance sheet, it might be used inefficiently, the risk of bad investment increases, so distributing it solves the problem.
 
-2) Increasing shareholder confidence
+2. Increasing shareholder confidence
 
 Paying special dividends can be interpreted as an indication that the company is doing well and will continue to do so in the future. Special dividends can increase shareholders’ trust in the firm, make them more loyal and more likely to remain with the company as long-term investors.
 
-3) Hybrid dividend policy
+3. Hybrid dividend policy
 
 Cyclical companies are more reliant on market conditions, with highly volatile earnings. When the company is doing well it’s better to pay out a special dividend than increasing regular dividends in time of prosperity and decreasing them during recessions. This is based on dividend smoothing, which will come back in a later post.
 

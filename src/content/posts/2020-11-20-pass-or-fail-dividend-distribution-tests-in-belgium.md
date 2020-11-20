@@ -1,0 +1,15 @@
+---
+template: blog-post
+title: "Pass Or Fail: Dividend Distribution Tests In Belgium"
+slug: /5-87
+date: 2020-11-20 12:42
+description: dividend distribution tests
+featuredImage: /assets/1_lh1ihcd8fn4kq8cs5ckskg.jpeg
+---
+`Image source: medium.com`
+
+For our course in corporate finance and governance, we have to pass a few tests. Beside writing engaging blog posts, we are also working on an applied economics paper on the topic of dividend policy. More specifically, our study focuses on the factors that determine dividend policy in Belgian small and medium-sized enterprises, or SMEs. As our paper focuses on Belgian companies, we thought it would be interesting to give you some insight into the regulations surrounding dividend payout decisions in Belgium. At the beginning of this year, the new Belgian Code on Companies and Associations came into effect, reforming the rules of earnings distribution to shareholders.
+
+And as it turns out, we are not the only one who have to pass a couple of tests, dividends have too! If you thought that all a firm had is to answer yes or no to the dividend question, you got it wrong. Depending on the legal form of the company, certain conditions have to be met before a dividend can be paid out to shareholders. While a limited liability company in Belgium, known as NV or SA, has to pass a single test, a private limited liability company, referred to as BV or SRL, faces two conditions to be met before paying to shareholders. The latter legal form is most common for SMEs in Belgium, while an NV typically concerns a listed company.
+
+So let’s get into some detail on these dividend distribution tests. Both types of firms have to pass the balance sheet test, also called the net assets test. The idea behind this test is to ensure that the net assets of the company will not become negative as a result of earnings being paid out as dividends. The calculation to be used is specified in the Code on Companies and Associations. Obviously, if the earnings would turn negative, the company is not allowed to distribute dividends. The second, and also more stringent, test only applies to the legal form of BV, which is the liquidity test. This test ensures sufficient liquidity for the future. The main question to answer here is: will the firm still be able to pay its debt over the next twelve months after the dividend payout? Easy, right? Well, think again! First, the directors of the company have to present a special report in which they provide justifications for their decision to distribute dividends. Second, this test requires the directors to say something about the future. And as they say, you never know what the future holds. Or at least to some extent. It is up to the firm’s directors to carefully consider all possible events that may have an impact on the firm’s future liquidity. With the uncertain economic times resulting from the coronavirus pandemic, this test may be even more critical.
